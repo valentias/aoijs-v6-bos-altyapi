@@ -8,6 +8,6 @@ Herhangi bir hata alıyorsan [Maxi Code](https://discord.gg/zA62YzH44Z)
 
 Proje Yapımcıları;
 
-[![Valentia](https://lanyard.cnrad.dev/api/886599539123978260)](https://discord.com/users/886599539123978260)
+[![Discord Presence](https://lanyard.cnrad.dev/api/886599539123978260)](https://discord.com/users/886599539123978260)
 
-[![Lyrox](https://lanyard.cnrad.dev/api/1031841616023007282)](https://discord.com/users/1031841616023007282)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1031841616023007282)](https://discord.com/users/1031841616023007282)
