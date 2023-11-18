@@ -4,7 +4,7 @@ setup(Util);
 const settings = require("./src/setting/setting.json")
 
 const client = new AoiClient({
-  token: process.env.token,
+  token: settings.token,
   prefix: ["!","?","."],
   intents: ["MessageContent","Guilds","GuildMessages"],
   events: ["onMessage","onInteractionCreate"]
