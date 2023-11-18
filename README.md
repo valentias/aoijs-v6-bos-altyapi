@@ -1,0 +1,1 @@
+# aoijs-v6-bos-altyapi
